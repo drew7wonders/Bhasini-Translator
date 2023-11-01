@@ -1,5 +1,5 @@
 # Bhasini-Translator
-It's a language Translator, build  using Bhasini API.
+The web app allow users to translate texts
 ##
 Try it yourself `https://drew7wonders.github.io/Bhasini-Translator/Bhasini/`
 ##
