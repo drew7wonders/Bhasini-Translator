@@ -4,9 +4,6 @@ const output_lang = document.getElementById("slct-out");
 const inp_area = document.getElementById("input-area");
 const output_area = document.getElementById("output-area");
 
-const apiKey = 'xoxQuduNRtWVu5mKsOB0dOXHEdf6xd5Wun2FCCHKT_gNwfL-VLNS9n2EOyPvtlP6'; // Replace with your actual API key
-console.log(input_lang.value);
-
 button.addEventListener("click", () => {
     const sourceLanguage = input_lang.value;
     const targetLanguage = output_lang.value;
